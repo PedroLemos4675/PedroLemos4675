@@ -1,5 +1,7 @@
-## Oi, meu nome é Pedro Augusto Ferreira de Souza Lemos!
+<h1> Oi, meu nome é Pedro Augusto Ferreira de Souza Lemos!</h1>
 
+<img src= "./Avatar-GitHub.jpeg" align= "right" height= "150"> 
+<br> <br>
 
 <!--
 - 🔭 I’m currently working on ...
