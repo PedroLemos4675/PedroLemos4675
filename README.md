@@ -26,3 +26,10 @@
   <a href="https://github.com/PedroLemos4675" target="_blank"><img alt="Pedro - GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://wa.me/+5535984742402" target="_blank"><img alt="Pedro - GitHub" src="https://img.shields.io/static/v1?style=for-the-badge&message=whatsapp&color=25D366&logo=whatsapp&logoColor=FFFFFF&label="></a>
 </div>
+
+## Front-End
+
+<div style="display:inline-block;">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
